@@ -1,0 +1,4 @@
+main things i learned in this part lesson was mainly that you can stylize printed text out with either using 
+"""#""" or printing on multiple different lines not sure if my way will actually work but we'll see.
+
+also that the print function can do math.
