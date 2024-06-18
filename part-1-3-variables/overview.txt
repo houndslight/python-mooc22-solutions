@@ -1,5 +1,0 @@
-honestly so far from what im seeing this is starting to ramp up in difficulty nothing crazy but still interesting to me.
-
-the things i need to brush up on are basics like f strings and just general formatting
-
-the end function was actually interesting because i havent come across it and learning it seems like it will be very useful for the lessons ahead
